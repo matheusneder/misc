@@ -1,3 +1,3 @@
 # Miscelânea
 
-* (Palestra sobre integração contínua - Olé Tecnologia)[misc/palestras/pdf/Integracao Continua.pdf]
+* [Palestra sobre integração contínua - Olé Tecnologia](palestras/pdf/Integracao Continua.pdf)
