@@ -1,4 +1,6 @@
-﻿using System;
+// baseado em https://www.vivaolinux.com.br/script/Algoritmo-de-Fatoracao-de-Fermat-(FFA)-em-C/
+
+using System;
 
 class FermatFactor
 {
